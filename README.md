@@ -5,6 +5,7 @@ This is what developers do, too. Look at any github repo and you'll see the Issu
 
 ![Screen Shot 2019-08-07 at 9 40 51 PM](https://user-images.githubusercontent.com/50973555/62669110-6a1e2100-b95c-11e9-85b5-d6e0adaf0927.png)
 
+_____________________________________________________________________________
 Don't see yours? Click the green New Issue button and let me know about it. 
 
 ![Screen Shot 2019-08-07 at 9 47 22 PM](https://user-images.githubusercontent.com/50973555/62669335-3a234d80-b95d-11e9-8de7-3d933a74bd32.png)
